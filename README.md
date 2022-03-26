@@ -1,4 +1,6 @@
-### Hola, soy Matías Díaz 👋👨‍💻
+### Hi! I´m Matias Diaz 👋👨‍💻
+____________
+
 ![MatiasDiazDamian](https://user-images.githubusercontent.com/93959640/160257910-335cdb01-073e-4477-8d84-c7af34280f24.png)
 
 
