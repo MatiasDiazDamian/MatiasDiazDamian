@@ -1,6 +1,5 @@
-### Hi, I´m Matias Diaz 👋
-![Matias Diaz Damian](https://user-images.githubusercontent.com/93959640/160256753-5c15b411-eb00-4270-b82a-53274423ca83.gif)
-
+### Hola, soy Matías Díaz 👋👨‍💻
+![Matias Diaz Damian](https://user-images.githubusercontent.com/93959640/160257851-c8146b2f-ef90-46fc-9abb-7f45dabfc2ed.png)
 
 Here are some ideas to get you started:
 
