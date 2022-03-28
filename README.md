@@ -1,10 +1,6 @@
 ### Hi! I´m Matias Diaz 👋👨‍💻
 ____________
-
-![Matias Diaz Damian](https://user-images.githubusercontent.com/93959640/160308106-48689ac7-100f-45c0-abb3-9b3272649d3b.gif)
-
-
-
+![MatiasDiazDamian](https://user-images.githubusercontent.com/93959640/160308230-b9daa3ab-ac76-469b-84c1-d4fd3589f1fc.png)
 
 
 Here are some ideas to get you started:
@@ -15,5 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ..
