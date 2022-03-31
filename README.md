@@ -1,5 +1,7 @@
-### Hi! I´m Matias 👋👨‍💻
-____________
+<h1 align="center">Hi 👋, I'm Matias💻</h1>
+<h3 align="center">A passionate junior frontend developer from Argentina</h3>
+
+
 ![MatiasDiazDamian](https://user-images.githubusercontent.com/93959640/160308230-b9daa3ab-ac76-469b-84c1-d4fd3589f1fc.png)
 
 
