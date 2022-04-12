@@ -4,7 +4,7 @@
 
 ![MatiasDiazDamian](https://user-images.githubusercontent.com/93959640/160308230-b9daa3ab-ac76-469b-84c1-d4fd3589f1fc.png)
 
-I can proudly say that I am a junior frontend developer and I recognize that my journey in technology is just beginning. Many sleepless nights come ahead, trying to find solutions and studying new technologies. But together, we will build a better future.
+"I can proudly say that I am a junior frontend developer and I recognize that my journey in technology is just beginning. Many sleepless nights come ahead, trying to find solutions and studying new technologies. But together, we will build a better future."
 
 
 <h3 align="left">You can connect with me🌍:</h3>
